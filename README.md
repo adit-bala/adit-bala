@@ -3,7 +3,7 @@
 ## I'm a Rising Senior in High School, Aspiring Card Magaician, and Developer!
 - I’m currently working on deploying a [chrome extension][devpost]!
 - 🌱 I’m currently learning Javascript and Python
-- 🥅 2020 Goals: Get into college LOL
+- 🥅 2020 Goals: Getting into college LOL
 - ⚡ Fun fact: I am currently learning Japanese
 
 ### Connect with me:
