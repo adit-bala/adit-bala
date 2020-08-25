@@ -6,8 +6,6 @@
 - 🥅 2020 Goals: Getting into college LOL
 - ⚡ Fun fact: I am currently learning Japanese
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="Adit Bala | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -15,6 +13,8 @@
 [<img align="left" alt="Adit Bala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+[![Spotify](https://novatorem.adit-bala.vercel.app//api/spotify)](https://open.spotify.com/user/adit.bala)
 
 ---
 
