@@ -1,6 +1,6 @@
 ### Hello, My name is Aditya Balasubramanian  👋
 
-## I'm a Rising Senior in High School, Aspiring Card Magaician, and Developer!
+## I'm a Rising High School Senior, Aspiring Card Magician, and Developer!
 - I’m currently working on deploying a [chrome extension][devpost]!
 - 🌱 I’m currently learning Javascript and Python
 - 🥅 2020 Goals: Getting into college LOL
