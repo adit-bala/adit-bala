@@ -12,6 +12,15 @@
 [<img align="left" alt="Adit Bala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Adit Bala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://https://github-readme-stats.adit-bala.vercel.app//api?username=adit-bala&show_icons=true&hide_border=true" />
+
+</details>
+  
+  
+
 [devpost]: https://devpost.com/software/attendance-for-google-meet
 [youtube]: https://www.youtube.com/channel/UC9dctih2f4U7QvWL-Nyypdg?sub_confirmation=1
 [LinkedIn]: https://www.linkedin.com/in/aditbala/
