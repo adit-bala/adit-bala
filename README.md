@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I am currently learning Japanese**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit-bala&show_icons=true" alt="adit-bala" /></p>
-
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.adit-bala.vercel.app//api/spotify)](https://open.spotify.com/user/curry-94)
@@ -32,13 +30,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Adit Bala's Github Stats" src="https://github-readme-stats.adit-bala.vercel.app/api?username=adit-bala&show_icons=true&hide_border=true" />
-
-</details>
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit-bala&show_icons=true" alt="adit-bala" /></p>  
   
 
 [devpost]: https://devpost.com/software/attendance-for-google-meet
