@@ -15,11 +15,7 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.adit-bala.vercel.app//api/spotify)](https://open.spotify.com/user/curry-94)
 
-### Connect with me:
 
-[<img align="left" alt="Adit Bala | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Adit Bala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Adit Bala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -29,10 +25,23 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit-bala&show_icons=true" alt="adit-bala" /></p>  
+
+
+
+### Connect with me:
+
+[<img align="left" alt="Adit Bala | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Adit Bala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adit Bala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   
 
 [devpost]: https://devpost.com/software/attendance-for-google-meet
