@@ -55,12 +55,3 @@
 [youtube]: https://www.youtube.com/channel/UC9dctih2f4U7QvWL-Nyypdg?sub_confirmation=1
 [LinkedIn]: https://www.linkedin.com/in/aditbala/
 [Instagram]: https://www.instagram.com/adit.bala/
-
-
-
-<p align="center">
-<a href="https://dev.to/adityarbala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adityarbala" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aditbala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditbala" height="30" width="30" /></a>
-<a href="https://instagram.com/adit.bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adit.bala" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/adit bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="adit bala" height="30" width="30" /></a>
-</p>
