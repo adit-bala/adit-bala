@@ -30,6 +30,8 @@
 <br />
 <br />
 
+### Stats:
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit-bala&show_icons=true" alt="adit-bala" /></p>  
   
 
