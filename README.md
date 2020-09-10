@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-bala" alt="adit-bala" /> </p>
 
-- 🔭 I’m currently working on [a chrome extension](https://github.com/tytot/attendance-for-google-meet)
+- 🔭 I’m currently deploying [a chrome extension](https://chrome.google.com/webstore/detail/attendance-for-google-mee/gioogehddfnceeihfoeencjbhggblkkd)
 
 - 🌱 I’m currently learning **JavaScript**
 
