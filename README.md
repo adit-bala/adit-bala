@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name is Aditya Balasubramanian</h1>
+<h1 align="center">Greetings :pray:, My name is Aditya Balasubramanian</h1>
 <h3 align="center">I'm a  High School Senior, Retired Chess Player, and Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-bala" alt="adit-bala" /> </p>
