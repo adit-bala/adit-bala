@@ -21,7 +21,7 @@
 ### Languages and Tools:
 
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css" alt="html5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css" alt="python" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&hide=html" alt="adit-bala" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&hide=html" alt="adit-bala" /></p>
 
 <br />
 <br />
@@ -31,10 +31,6 @@
 <br />
 <br />
 <br />
-
-### Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adit-bala&show_icons=true" alt="adit-bala" /></p>  
 
 
 
