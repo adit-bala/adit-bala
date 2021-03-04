@@ -17,6 +17,8 @@
 
 <br />
 
+![alt](https://github.com/adit-bala/adit-bala/blob/master/ratjam.gif)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&hide=html" alt="adit-bala" /></p>
 
