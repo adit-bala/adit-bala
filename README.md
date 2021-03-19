@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently deploying [a chrome extension](https://chrome.google.com/webstore/detail/attendance-for-google-mee/gioogehddfnceeihfoeencjbhggblkkd)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javscript**
 
 - 📫 How to reach me **adityarbala@gmail.com**
 
