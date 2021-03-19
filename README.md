@@ -17,8 +17,6 @@
 
 <br />
 
-<img src="https://github.com/adit-bala/adit-bala/blob/master/ratjam.gif" />
-
 
 
 
