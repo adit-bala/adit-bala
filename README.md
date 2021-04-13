@@ -20,7 +20,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&hide=html" alt="adit-bala" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&theme=dracula" alt="adit-bala" /></p>
 
 <br />
 <br />
