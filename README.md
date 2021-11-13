@@ -2,13 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-bala" alt="adit-bala" /> </p>
 
-- 🔭 I’m currently deploying [a chrome extension](https://chrome.google.com/webstore/detail/attendance-for-google-mee/gioogehddfnceeihfoeencjbhggblkkd)
+- 🔭 I’m currently thriving
 
-- 🌱 I’m currently learning **Javscript**
+- 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **adityarbala@gmail.com**
+- 📫 How to reach me **aditbala@berkeley.com**
 
-- ⚡ Fun fact **I am currently learning Japanese**
 
 
 ### Spotify Playing 🎧
