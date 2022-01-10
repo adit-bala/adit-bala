@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-bala" alt="adit-bala" /> </p>
 
-- 🔭 I’m currently thriving
+- 🔭 I’m currently deploying a [blog](https://adit-bala.github.io/juicer-blog-frontend/)
 
 - 🌱 I’m currently learning **Python**
 
