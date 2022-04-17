@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently deploying a [blog](https://adit-bala.github.io/juicer-blog-frontend/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **aditbala@berkeley.com**
 
