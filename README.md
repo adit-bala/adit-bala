@@ -13,23 +13,6 @@
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.adit-bala.vercel.app//api/spotify)](https://open.spotify.com/user/curry-94)
 
-<br />
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adit-bala&layout=compact&theme=dracula" alt="adit-bala" /></p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
 
 ### Connect with me:
 
