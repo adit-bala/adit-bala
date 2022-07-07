@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **aditbala@berkeley.com**
+- 📫 How to reach me **aditbala [at] berkeley [dot] edu**
 
 
 
