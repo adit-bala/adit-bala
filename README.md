@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adit-bala" alt="adit-bala" /> </p>
 
-- 🔭 I’m currently deploying a [blog](https://adit-bala.github.io/juicer-blog-frontend/)
+- 🔭 I’m currently teaching a [course](https://teaching.aditbala.com/)!
 
 - 🌱 I’m currently learning **React**
 
