@@ -21,9 +21,6 @@
 [<img align="left" alt="Adit Bala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
   
 
-[devpost]: https://devpost.com/software/attendance-for-google-meet
-[youtube]: https://www.youtube.com/channel/UC9dctih2f4U7QvWL-Nyypdg?sub_confirmation=1
 [LinkedIn]: https://www.linkedin.com/in/aditbala/
-[Instagram]: https://www.instagram.com/adit.bala/
 
 ![](https://hit.yhype.me/github/profile?user_id=62257689)
