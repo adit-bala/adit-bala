@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently teaching [cs61a](https://cs61a.org/)!
 
-- 🌱 I’m currently learning **React**
-
 
 
 ### Spotify Playing 🎧
