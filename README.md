@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋🏽️ My name is Aditya </h1>
+<h1 align="center">Greetings 👋🏽️ My name is adit </h1>
 
 
 - 🔭 I’m currently teaching [cs61a](https://cs61a.org/)!
