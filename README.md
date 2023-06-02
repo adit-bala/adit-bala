@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋🏽️ My name is adit </h1>
 
 
-- 🔭 I’m currently teaching [cs61a](https://cs61a.org/)!
+- 🔭 I’m currently teaching [cs61c](https://cs61c.org/)!
 
 
 
