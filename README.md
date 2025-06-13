@@ -1,1 +1,1 @@
-i like startups & coding -- reach out if you do too.
+i like startups & coding -- reach out if you do too!
